@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/thayg0r?logo=github&style=for-the-b
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width="36" height="36" alt="JAVA" /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://assets.stickpng.com/images/62a86f1f14a38cce0c371c13.png" width="36" height="36" alt="JAVA" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="36" height="36" alt="JS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="36" height="36" alt="CSS" /></a>
