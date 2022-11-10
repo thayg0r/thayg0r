@@ -42,4 +42,4 @@ src="https://img.shields.io/github/followers/thayg0r?logo=github&style=for-the-b
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="https://www.buymeacoffee.com/thayg0r"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
