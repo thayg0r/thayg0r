@@ -5,9 +5,7 @@ Prazer, Thaygor 👋
 Estudante de Análise e Desenvolvimento de Sistemas
 -------------------------------------------------- 
 
-Tenho 31 anos, estudante de Análise e Desenvolvimento de Ssistemas e em transição de carreira para a área de TI.
-
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+Tenho 31 anos, estudante de Análise e Desenvolvimento de Sistemas e em transição de carreira para a área de TI.
 
 * 🌍  Moro em Mogi das Cruzes, São Paulo
 * ✉️  Meu e-mail é [thaygor@live.com](mailto:thaygor@live.com])
