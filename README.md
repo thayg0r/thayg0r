@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/thayg0r?logo=github&style=for-the-b
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://mui.com/](https://www.google.com/search?q=python&tbm=isch&tbs=isz:l&client=ubuntu&hs=un2&hl=pt-BR&sa=X&ved=0CAIQpwVqFwoTCMjTmYndovsCFQAAAAAdAAAAABAC&biw=1292&bih=656#imgrc=4z3KFfx5mfpNqM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
+<a href="https://www.google.com/search?q=python&tbm=isch&tbs=isz:l&client=ubuntu&hs=un2&hl=pt-BR&sa=X&ved=0CAIQpwVqFwoTCMjTmYndovsCFQAAAAAdAAAAABAC&biw=1292&bih=656#imgrc=4z3KFfx5mfpNqM" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
 </p>
 
 ### Socials
