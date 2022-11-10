@@ -2,8 +2,8 @@
 Oi 👋 Meu nome é Thaygor
 ==========================
 
-Estudante de An
------------------------------
+Estudante de Análise e Desenvolvimento de Ssistemas
+----------------------------------------------------
 
 I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
