@@ -11,10 +11,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 
 * 🌍  Moro em Mogi das Cruzes, São Paulo
 * ✉️  Meu e-mail é [thaygor@live.com](mailto:thaygor@live.com])
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Rust and C programming language
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🧠  Estudo Python, JAVA, HTML & CSS, UX Desing, entre outros
 
 <a href="https://www.github.com/thayg0r" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thayg0r?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
