@@ -1,16 +1,16 @@
 
-Oi 👋 Meu nome é Thaygor
-==========================
+Prazer, Thaygor 👋
+==================
 
-Estudante de Análise e Desenvolvimento de Ssistemas
+Estudante de Análise e Desenvolvimento de Sistemas
 ----------------------------------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+Tenho 31 anos de idade, estou em transição de carreira para a área de TI e cursando 4º semestre de Análise e Desenvolvimento de Sistemas.
 
 I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
+* 🌍  Moro em Mogi das Cruzes, São Paulo
+* ✉️  Meu e-mail é [thaygor@live.com](mailto:thaygor@live.com)
 * 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
 * 🧠  I'm learning Advanced Javascript, Rust and C programming language
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
