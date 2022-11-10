@@ -9,7 +9,7 @@ Tenho 31 anos, estudante de Análise e Desenvolvimento de Sistemas e em transiç
 
 * 🌍  Moro em Mogi das Cruzes, São Paulo
 * ✉️  Meu e-mail é [thaygor@live.com](mailto:thaygor@live.com])
-* 🧠  Estudo Python, JAVA, HTML & CSS, UX Desing, entre outros
+* 🧠  Estudo Python, JAVA, JavaScript, HTML & CSS e React.
 
 <a href="https://www.github.com/thayg0r" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thayg0r?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
@@ -17,9 +17,11 @@ src="https://img.shields.io/github/followers/thayg0r?logo=github&style=for-the-b
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="36" height="36" alt="CSS" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+
 </p>
 
 ### Socials
