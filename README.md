@@ -5,11 +5,11 @@ Prazer, Thaygor 👋
 Estudante de Análise e Desenvolvimento de Sistemas
 -------------------------------------------------- 
 
-Tenho 31 anos, estudante de Análise e Desenvolvimento de Sistemas e em transição de carreira para a área de TI.
+Tenho 31 anos, estou graduando em Análise e Desenvolvimento de Sistemas, em fase de transição de carreira, à procura de uma oportunidade na área de Tecnologia da Informação onde eu possa aprimorar e expandir meus conhecimentos.
 
-* Moro em Mogi das Cruzes, São Paulo 🌍
-* Meu e-mail é [thaygor@live.com](mailto:thaygor@live.com]) ✉️
-* Estudo Python, JAVA, JavaScript, HTML & CSS e React 🧠
+* 🌍 Moro em Mogi das Cruzes, São Paulo;
+* ✉️ Meu contato de e-mail é [thaygor@live.com](mailto:thaygor@live.com]);
+* 🧠 Conhecimento técnico acadêmico em programação front-end, programação back-end, Python, HTML5, Javascript, programação Web, Django, React & Redux e UX/UI.
 
 
 <a href="https://www.github.com/thayg0r" target="_blank" rel="noreferrer"><img
