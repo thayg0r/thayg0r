@@ -9,7 +9,7 @@ Tenho 31 anos, estou cursando Análise e Desenvolvimento de Sistemas, em fase de
 
 * 🌍 Moro em Mogi das Cruzes, São Paulo;
 * ✉️ Meu contato de e-mail é [thaygor@live.com](mailto:thaygor@live.com]);
-* 🧠 Conhecimento técnico acadêmico em programação front-end, programação back-end, Python, HTML, CSS, Javascript, programação Web, Django, React & Redux e UX/UI.
+* 🧠 Conhecimento técnico acadêmico em programação front-end, programação back-end, Python, HTML, CSS, Javascript, programação Web, Django, React e UX/UI.
 
 
 <a href="https://www.github.com/thayg0r" target="_blank" rel="noreferrer"><img
