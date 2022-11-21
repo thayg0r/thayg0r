@@ -1,4 +1,4 @@
-## Olá, meu nome é Thaygor, estudante de desenvolvimento front-end e back-end.
+## Olá, meu nome é Thaygor Padin, estudante de desenvolvimento front-end e back-end.
 <div align="center">
   <a href="https://github.com/thayg0r">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayg0r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
