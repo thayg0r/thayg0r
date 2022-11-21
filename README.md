@@ -1,11 +1,7 @@
 <h1 align="center">Olá, meu nome é Thaygor 👋🏼</h1>
 <h3 align="center">Estudante de desenvolvimento front-end e back-end.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thayg0r&label=Profile%20views&color=0e75b6&style=flat" alt="thayg0r" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Meu perfil no LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thaygor-padin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thaygor-padin" height="30" width="40" /></a>
 </p>
