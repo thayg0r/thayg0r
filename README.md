@@ -44,6 +44,6 @@ src="https://img.shields.io/github/followers/thayg0r?logo=github&style=for-the-b
 
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thayg0r&&theme=xcode)](https://github.com/thayg0r)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thayg0r&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thayg0r" /></p>
