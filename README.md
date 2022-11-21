@@ -1,44 +1,22 @@
+<h1 align="center">Oi 👋, Eu sou Thaygor</h1>
+<h3 align="center">A student frontend developer from Brazil</h3>
 
-Prazer, Thaygor 👋
-==================
-Estudante de Análise e Desenvolvimento de Sistemas
--------------------------------------------------- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thayg0r&label=Profile%20views&color=0e75b6&style=flat" alt="thayg0r" /> </p>
 
-Tenho 31 anos, estou cursando Análise e Desenvolvimento de Sistemas, em fase de transição de carreira e a procura de uma oportunidade na área da Tecnologia da Informação, onde eu possa aprimorar e expandir meus conhecimentos.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thayg0r" alt="thayg0r" /></a> </p>
 
-* 🌍 Moro em Mogi das Cruzes, São Paulo;
-* ✉️ Meu contato de e-mail é [thaygor@live.com](mailto:thaygor@live.com]);
-* 🧠 Conhecimento técnico acadêmico em programação front-end, programação back-end, Python, HTML, CSS, Javascript, Programação Web, Django, React e UX/UI.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-<a href="https://www.github.com/thayg0r" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thayg0r?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
-### Skills
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="36" height="36" alt="CSS" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="36" height="36" alt="JS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-
+<a href="https://linkedin.com/in/thaygor-padin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thaygor-padin" height="30" width="40" /></a>
 </p>
 
-### Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.github.com/thayg0r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thaygor-padin-68b83650" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thayg0r&show_icons=true&locale=en&layout=compact" alt="thayg0r" /></p>
 
-### Badges
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thayg0r&show_icons=true&locale=en" alt="thayg0r" /></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/thayg0r"><img src="https://github-readme-stats-thayg0r.vercel.app/api?username=thayg0r&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="thayg0r's GitHub stats" /></a>
-
-<a href="http://www.github.com/thayg0r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thayg0r&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thayg0r&&theme=xcode)](https://github.com/thayg0r)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thayg0r&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thayg0r" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thayg0r&" alt="thayg0r" /></p>
