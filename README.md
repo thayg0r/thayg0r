@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Thaygor 👋</h1>
+<h1 align="center">Olá, meu nome é Thaygor 👋🏼</h1>
 <h3 align="center">Estudante de desenvolvimento front-end e back-end.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thayg0r&label=Profile%20views&color=0e75b6&style=flat" alt="thayg0r" /> </p>
