@@ -1,7 +1,6 @@
 
 Prazer, Thaygor 👋
 ==================
-
 Estudante de Análise e Desenvolvimento de Sistemas
 -------------------------------------------------- 
 
