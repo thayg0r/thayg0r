@@ -5,11 +5,11 @@ Prazer, Thaygor 👋
 Estudante de Análise e Desenvolvimento de Sistemas
 -------------------------------------------------- 
 
-Tenho 31 anos, estou graduando em Análise e Desenvolvimento de Sistemas, em fase de transição de carreira, à procura de uma oportunidade na área de Tecnologia da Informação onde eu possa aprimorar e expandir meus conhecimentos.
+Tenho 31 anos, estou cursando Análise e Desenvolvimento de Sistemas, em fase de transição de carreira e a procura de uma oportunidade na área da Tecnologia da Informação, onde eu possa aprimorar e expandir meus conhecimentos.
 
 * 🌍 Moro em Mogi das Cruzes, São Paulo;
 * ✉️ Meu contato de e-mail é [thaygor@live.com](mailto:thaygor@live.com]);
-* 🧠 Conhecimento técnico acadêmico em programação front-end, programação back-end, Python, HTML5, Javascript, programação Web, Django, React & Redux e UX/UI.
+* 🧠 Conhecimento técnico acadêmico em programação front-end, programação back-end, Python, HTML & CSS, Javascript, programação Web, Django, React & Redux e UX/UI.
 
 
 <a href="https://www.github.com/thayg0r" target="_blank" rel="noreferrer"><img
@@ -19,10 +19,9 @@ src="https://img.shields.io/github/followers/thayg0r?logo=github&style=for-the-b
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="36" height="36" alt="Python" /></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="36" height="36" alt="JAVA" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="36" height="36" alt="JS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="36" height="36" alt="CSS" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width="36" height="36" alt="JS" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 
 </p>
