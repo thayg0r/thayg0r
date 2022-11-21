@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thayg0r&show_icons=true&locale=en" alt="thayg0r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thayg0r&" alt="thayg0r" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=thayg0r&theme=merko&border_radius=2.5&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
