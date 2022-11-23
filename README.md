@@ -14,7 +14,7 @@ Estou graduando em Análise e Desenvolvimento de Sistemas e em fase de transiç�
 ![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=#black)
 ![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=0477C8)
 ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=E85528) 
-![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=F24D1D)
 ![Canva](https://img.shields.io/badge/Canva-%2320232a.svg?style=for-the-badge&logo=Canva&logoColor=03C3CB)
 
 ## 📊 Status GitHub:
