@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
 Olá, meu nome é Thaygor, estudante de desenvolvimento front-end e back end.
+
 Estou graduando em Análise e Desenvolvimento de Sistemas e em fase de transição de carreira.
 
 # 🌐 Redes Sociais:
