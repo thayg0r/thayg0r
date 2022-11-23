@@ -4,8 +4,8 @@ Olá, meu nome é Thaygor, estudante de desenvolvimento front-end e back end.
 Estou graduando em Análise e Desenvolvimento de Sistemas e em fase de transição de carreira.
 
 ## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaygor-padin)
-[![Instagram](https://img.shields.io/badge/Instagram-%2320232a.svg?logo=Instagram&logoColor=white)](https://instagram.com/thaygoor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?logo=linkedin&logoColor=0C66C2)](https://linkedin.com/in/thaygor-padin)
+[![Instagram](https://img.shields.io/badge/Instagram-%2320232a.svg?logo=Instagram&logoColor=E00578)](https://instagram.com/thaygoor)
 
 
 ## 💻 Ferramentas Utilizadas:
