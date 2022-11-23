@@ -25,6 +25,3 @@ Estou graduando em Análise e Desenvolvimento de Sistemas e em fase de transiç�
 ![](https://github-profile-trophy.vercel.app/?username=thayg0r&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thayg0r&icon=2&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
