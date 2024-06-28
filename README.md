@@ -10,7 +10,7 @@ Olá, meu nome é Thaygor, sou Desenvolvedor Web graduado em Análise e Desenvol
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=F6DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=E85528)
 ![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=0477C8)
-![Sass](https://img.shields.io/badge/Sass-%2320232a?style=for-the-badge&logo=sass&logoColor=20232a)
+![Sass](https://img.shields.io/badge/Sass-%2320232a?style=for-the-badge&logo=sass&logoColor=#0477C8)
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=#61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=#7248b6)
 
