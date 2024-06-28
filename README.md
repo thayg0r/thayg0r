@@ -1,5 +1,5 @@
 ## 💫 Sobre mim:
-Olá, meu nome é Thaygor, sou Desenvolvedor Web graduado em Análise e Desenvolvimento.
+Olá, meu nome é Thaygor, sou Desenvolvedor Web graduado em Análise e Desenvolvimento de Sistemas.
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?logo=linkedin&logoColor=0C66C2)](https://linkedin.com/in/thaygor-padin)
