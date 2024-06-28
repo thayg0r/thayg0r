@@ -12,7 +12,7 @@ Olá, meu nome é Thaygor, sou Desenvolvedor Web graduado em Análise e Desenvol
 ![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=0477C8)
 ![Sass](https://img.shields.io/badge/Sass-%2320232a?style=for-the-badge&logo=sass&logoColor=#0477C8)
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=#61DAFB)
-![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=#7248b6)
+![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=764ABC)
 
 ## 📊 Status GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=thayg0r&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
