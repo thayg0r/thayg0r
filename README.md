@@ -15,8 +15,7 @@ Olá, meu nome é Thaygor, sou Desenvolvedor Web/Mobile graduado em Análise e D
 ![Sass](https://img.shields.io/badge/Sass-%2320232a?style=for-the-badge&logo=sass&logoColor=#0477C8)
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=F6DF1E)
 ![Git](https://img.shields.io/badge/Git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=F05032)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%2320232a.svg?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
-
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%2320232a.svg?style=for-the-badge&logo=azure-devops&logoColor=0078D7)
 
 ## 📊 Status GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=thayg0r&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
